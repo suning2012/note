@@ -53,7 +53,7 @@ return '<h5>Your browers is {}</h5>'.format(user_agnt)
 
 
 ## 1.3 图示
-![URL原则](/assets/URL原则.png)
+![UR原则](./images/1533699706838.png)
 
 # 2 视图函数
 ## 2.1 基于函数的视图函数
